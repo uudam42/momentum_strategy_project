@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# Data & Models
+features/features_data/
+features/model/*.pkl
+
+# Jupyter and logs
+*.ipynb
+*.log
+
+# VSCode / PyCharm
+.idea/
+.vscode/
+
+# Images
+*.png
